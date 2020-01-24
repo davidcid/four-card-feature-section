@@ -46,6 +46,7 @@ header p {
 }
 
 .cards .card {
+  border-radius: 5px;
   width: 350px;
   padding: 2rem;
   background-color: #fff;
